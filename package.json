@@ -9,7 +9,7 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "ffmpeg-static": "^4.2.7"
+    "ffmpeg-static": "^4.2.7",
     "@discordjs/opus": "^0.3.3",
     "discord-player": "^3.3.2",
     "discord.js": "^12.5.1"
